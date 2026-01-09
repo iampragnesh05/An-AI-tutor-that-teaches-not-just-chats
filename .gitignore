@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+.venv/
+
+# Env secrets
+.env
+
+# Local data (PDFs, vector indexes, memory)
+data/
+
+# Streamlit
+.streamlit/
